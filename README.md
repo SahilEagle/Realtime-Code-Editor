@@ -28,4 +28,4 @@ now run backend
 npm run server
 ```
 
-###Enjoy Here's some glimpse of My Project
+### Enjoy Here's some glimpse of My Project
